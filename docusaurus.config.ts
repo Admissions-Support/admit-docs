@@ -10,10 +10,10 @@ const config: Config = {
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
-  url: "https://admissions-support.github.io",
+  url: "https://admit-documentation.netlify.app",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: "/admit-docs/", // This should match the repository name with a slash on both ends
+  baseUrl: "/", // This should match the repository name with a slash on both ends
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: "Admissions-Support",
