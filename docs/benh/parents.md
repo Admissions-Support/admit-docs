@@ -1,8 +1,8 @@
 ---
-sidebar_position: 1
+sidebar_position: 3
 ---
 
-# BENH Management
+# Booking Extra Sessions
 
 **Buy Extra Nursery Hours (BENH)**
 

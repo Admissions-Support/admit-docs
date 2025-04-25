@@ -1,8 +1,8 @@
 ---
-sidebar_position: 1
+sidebar_position: 3
 ---
 
-# BENH Management
+# BENH Reports
 
 **Buy Extra Nursery Hours (BENH)**
 
