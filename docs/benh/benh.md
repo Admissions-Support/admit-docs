@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Buying Extra Nursery Hours (BENH)
+# Buying Extra Nursery Hours (BENH) Set Up
 
 Buying Extra Nursery Hours (BENH) is a feature available at the **location level** and is **only enabled for council-run Early Learning and Childcare (ELC) locations**. It allows administrators to manage and offer additional nursery hours to parents and carers.
 
