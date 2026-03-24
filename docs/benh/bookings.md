@@ -95,3 +95,12 @@ All actions taken on the account — such as bookings, cancellations, payments, 
 
 - This can be accessed via the **Activity Log** button on the main booking screen.
 - Both **parents/carers and staff** can view this log to see a complete history of actions related to bookings.
+
+At the top of the Activity Log, the **school year selector** and the **filter buttons** are displayed together on the same horizontal row:
+
+- The **School Year** dropdown (on the left) lets you select which school year’s log entries to display.
+- The **filter buttons** — **All**, **Child**, **Application**, and **Bookings** — sit alongside the school year selector on the same row and allow you to narrow the log entries by category:
+  - **All** – Shows every log entry regardless of type.
+  - **Child** – Shows only changes related to the child’s record or profile.
+  - **Application** – Shows only entries related to applications.
+  - **Bookings** – Shows only entries related to bookings, cancellations, and payments.
